@@ -1,4 +1,7 @@
 # Pytorch-Lecture-Notes
+This Lecture Notes will help me review my knowlegde better and help beginners think Pytorch is not hard.
+
+# Install
 Install Pytorch link:  https://pytorch.org/get-started/locally/
 
 You should roll-down in the link above, it also show how to check your Pytorch
