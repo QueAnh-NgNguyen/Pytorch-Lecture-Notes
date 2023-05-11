@@ -14,6 +14,8 @@ Last but not least, I would like to say thank you very much to my teaches, all h
 
 This lecture notes I collected from:
 
+Lectures of my professors
+
 https://www.youtube.com/@toidicodedaoblog
 
 https://www.youtube.com/@youngmonkeys9091
