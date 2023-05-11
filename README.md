@@ -10,8 +10,17 @@ You should roll-down in the link above, it also show how to check your Pytorch
 
 Install CUDA link: https://developer.nvidia.com/cuda-toolkit-archive
 
+Last but not least, I would like to say thank you very much to my teaches, all heros in youtube, github, stackflow and so on for sharing their knowledge to everyone including me.
 
+This lecture notes I collected from:
 
+https://www.youtube.com/@toidicodedaoblog
+
+https://www.youtube.com/@youngmonkeys9091
+
+https://www.youtube.com/@HeatonResearch
+
+and pytorch official website too....
 
 
 Yeah! Have fun!
