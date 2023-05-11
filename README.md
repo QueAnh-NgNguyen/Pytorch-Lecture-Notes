@@ -1,5 +1,5 @@
 # Pytorch-Lecture-Notes
-This Lecture Notes will help me review my knowlegde better and help beginners think Pytorch is not hard.
+This Lecture Notes will help me review my knowlegde better and help beginners think Pytorch and Tensor are not hard.
 
 # Install
 Install Pytorch link:  https://pytorch.org/get-started/locally/
